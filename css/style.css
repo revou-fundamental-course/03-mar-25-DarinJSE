@@ -25,7 +25,9 @@ body {
 
 .nav-container .logo img {
     width: 75px;
+    height: 75px;
     border-radius: 50%;
+    margin-right: 10px;
 }
 
 .nav-container .navbar {
